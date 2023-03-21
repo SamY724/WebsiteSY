@@ -1,7 +1,7 @@
 {
-  "main.css": "/WebsiteSY/static/css/main.58f4ef4c.chunk.css",
-  "main.js": "/WebsiteSY/static/js/main.aa304b0c.chunk.js",
-  "main.js.map": "/WebsiteSY/static/js/main.aa304b0c.chunk.js.map",
+  "main.css": "/WebsiteSY/static/css/main.480907f0.chunk.css",
+  "main.js": "/WebsiteSY/static/js/main.c7183cdc.chunk.js",
+  "main.js.map": "/WebsiteSY/static/js/main.c7183cdc.chunk.js.map",
   "static/js/1.7fc5741d.chunk.js": "/WebsiteSY/static/js/1.7fc5741d.chunk.js",
   "static/js/1.7fc5741d.chunk.js.map": "/WebsiteSY/static/js/1.7fc5741d.chunk.js.map",
   "static/js/2.eb46240d.chunk.js": "/WebsiteSY/static/js/2.eb46240d.chunk.js",
@@ -9,8 +9,8 @@
   "runtime~main.js": "/WebsiteSY/static/js/runtime~main.dd055090.js",
   "runtime~main.js.map": "/WebsiteSY/static/js/runtime~main.dd055090.js.map",
   "static/media/logo1.png": "/WebsiteSY/static/media/logo1.8e61caf4.png",
-  "static/css/main.58f4ef4c.chunk.css.map": "/WebsiteSY/static/css/main.58f4ef4c.chunk.css.map",
+  "static/css/main.480907f0.chunk.css.map": "/WebsiteSY/static/css/main.480907f0.chunk.css.map",
   "index.html": "/WebsiteSY/index.html",
-  "precache-manifest.d17b669149125d9e175ad134601fcb46.js": "/WebsiteSY/precache-manifest.d17b669149125d9e175ad134601fcb46.js",
+  "precache-manifest.3afb86a0ffef1086897ec9f5410a8673.js": "/WebsiteSY/precache-manifest.3afb86a0ffef1086897ec9f5410a8673.js",
   "service-worker.js": "/WebsiteSY/service-worker.js"
 }
