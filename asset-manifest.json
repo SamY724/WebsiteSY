@@ -1,7 +1,7 @@
 {
   "main.css": "/WebsiteSY/static/css/main.1696c1f6.chunk.css",
-  "main.js": "/WebsiteSY/static/js/main.db16ca8a.chunk.js",
-  "main.js.map": "/WebsiteSY/static/js/main.db16ca8a.chunk.js.map",
+  "main.js": "/WebsiteSY/static/js/main.25c9ff2d.chunk.js",
+  "main.js.map": "/WebsiteSY/static/js/main.25c9ff2d.chunk.js.map",
   "static/js/1.7fc5741d.chunk.js": "/WebsiteSY/static/js/1.7fc5741d.chunk.js",
   "static/js/1.7fc5741d.chunk.js.map": "/WebsiteSY/static/js/1.7fc5741d.chunk.js.map",
   "static/js/2.b321b5e2.chunk.js": "/WebsiteSY/static/js/2.b321b5e2.chunk.js",
@@ -11,6 +11,6 @@
   "static/media/logo1.png": "/WebsiteSY/static/media/logo1.8e61caf4.png",
   "static/css/main.1696c1f6.chunk.css.map": "/WebsiteSY/static/css/main.1696c1f6.chunk.css.map",
   "index.html": "/WebsiteSY/index.html",
-  "precache-manifest.2101fc77c4396d01af66d8c1c00edf6f.js": "/WebsiteSY/precache-manifest.2101fc77c4396d01af66d8c1c00edf6f.js",
+  "precache-manifest.8129be8003e7279a266e5fbe8d9dc967.js": "/WebsiteSY/precache-manifest.8129be8003e7279a266e5fbe8d9dc967.js",
   "service-worker.js": "/WebsiteSY/service-worker.js"
 }
